@@ -1,0 +1,25 @@
+._card {
+    width: 22%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-top: 1%;
+    /* padding: 1% 1% 0% 1%; */
+    background-color: white;
+    /* border: none; */
+    color: rgb(0, 0, 0);
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+._card:hover {
+    opacity: 50%;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}
